@@ -18,10 +18,10 @@
 Designed for Blox Fruits fans, this script gives you the tools to master the game. Here's why you’ll love it:  
 
 ✅ **Safe to Use**: Fully tested to ensure your account's security.  
-✅ **Beginner-Friendly**: No coding knowledge needed—just plug and play!  
+✅ **Beginner-Friendly**: No coding knowledge needed-just plug and play!  
 ✅ **Powerful Features**: Automate farming, unlock powerful abilities, and more.  
 ✅ **Regular Updates**: Continuously improved to work with the latest Blox Fruits updates.  
-✅ **Completely Free**: No charges, no subscriptions—just download and conquer.  
+✅ **Completely Free**: No charges, no subscriptions-just download and conquer.  
 
 ---
 
