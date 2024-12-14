@@ -38,16 +38,14 @@ Designed for Blox Fruits fans, this script gives you the tools to master the gam
 
 ## 📥 **How to Download and Use**
 
-1. Click the **“Download Now”** button above and save the ZIP file.  
+1. Click the **“Download”** button above and save the ZIP file.  
 2. Extract the downloaded file to your preferred folder.  
-3. Use a trusted script executor (e.g., Synapse X, Krnl) to inject the script.  
+3. Use a trusted script executor to inject the script.  
 4. Customize the settings and enjoy your enhanced Blox Fruits gameplay! 🎉  
 
 ---
 
-## 🛠️ **Requirements**
-
-- A supported script executor (e.g., Synapse X, Krnl, Fluxus).  
+## 🛠️ **Requirements** 
 - Windows operating system.  
 - Roblox installed and updated to the latest version.  
 
@@ -75,9 +73,9 @@ We prioritize your safety. Blox Fruits Script:
 
 ## 🌌 **Screenshots**
 
-<img src="https://github.com/user-attachments/assets/961bb14a-0ffe-4b3c-8450-e1d26c27253c" alt="blox1" width="600">
+<img src="https://github.com/user-attachments/assets/961bb14a-0ffe-4b3c-8450-e1d26c27253c" alt="blox1" width="700">
 
-<img src="https://github.com/user-attachments/assets/a93b2891-c1cb-4180-8f1e-a3d0fcafa1cf" alt="blox2" width="600">
+<img src="https://github.com/user-attachments/assets/a93b2891-c1cb-4180-8f1e-a3d0fcafa1cf" alt="blox2" width="700">
 
 
 ---
