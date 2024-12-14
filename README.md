@@ -75,11 +75,10 @@ We prioritize your safety. Blox Fruits Script:
 
 ## 🌌 **Screenshots**
 
-![Auto-Farming Example](https://via.placeholder.com/800x400)  
-_Effortlessly farming with Auto-Farming enabled._  
+<img src="https://github.com/user-attachments/assets/961bb14a-0ffe-4b3c-8450-e1d26c27253c" alt="blox1" width="600">
 
-![ESP in Action](https://via.placeholder.com/800x400)  
-_Track players and loot with the ESP feature._  
+<img src="https://github.com/user-attachments/assets/a93b2891-c1cb-4180-8f1e-a3d0fcafa1cf" alt="blox2" width="600">
+
 
 ---
 
@@ -89,4 +88,4 @@ _Track players and loot with the ESP feature._
 🔥 Download the Blox Fruits Script today and become the ultimate pirate king!  
 
 ---  
-_Made with care for all Blox Fruits adventurers._  
+ 
